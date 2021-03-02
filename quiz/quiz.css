@@ -1,0 +1,35 @@
+body{
+    background-color: #cdeefe;
+}
+.main{
+    width: 500px;
+    margin: 0px auto;
+}
+.h1{
+    text-align: center;
+}
+.main2{
+    display: flex;
+}
+.h3{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+.heading > h3{
+    margin: 0px;
+    padding: 0px;
+}
+.timer{
+    margin-left: 200px;
+}
+.container{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 100px;
+}
